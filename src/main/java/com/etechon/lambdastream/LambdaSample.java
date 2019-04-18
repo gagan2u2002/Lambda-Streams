@@ -8,6 +8,8 @@ import java.util.List;
  * Take a note lambda expression should not contains more than one line
  * if you labda expression have more than a line then try to do refactor
  * Multipe lines in Lambda is not recommended.
+ * In lamda expresison even we call a method , for this example
+ * getFactors is called.
  *
  */
 public class LambdaSample {

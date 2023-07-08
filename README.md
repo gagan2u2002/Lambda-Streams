@@ -16,10 +16,10 @@ Lambdas and Stream Why ?
  
  ### Stream operations are either intermediate or terminal
  
- *Intermediate operations*
+ *Intermediate operations :*
  
   - filter, map or sort reaturn a stream so we can chain multiple intermediate operations.
   
-  *Terminal operations*
+  *Terminal operations :*
   
   - forEach, collect or reduce are either void or return a non-stream result.

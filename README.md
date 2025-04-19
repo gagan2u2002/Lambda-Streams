@@ -1,4 +1,4 @@
-Lambdas and Stream Why ?
+Lambdas and Stream basics ?
 
 *Streams:*
 
